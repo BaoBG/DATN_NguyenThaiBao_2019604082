@@ -1,0 +1,147 @@
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\ApplicationInsights.config
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\csc.exe
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\vbc.exe
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\BookShopOnline.Tests.dll.config
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\BookShopOnline.Tests.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\BookShopOnline.Tests.pdb
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\BookShopOnline.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Helpers.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Mvc.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Razor.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Optimization.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\Model.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\BotDetect.Web.Mvc.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\EntityFramework.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\PagedList.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\BotDetect.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\BookShopOnline.pdb
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Helpers.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Mvc.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Razor.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Optimization.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\Model.pdb
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\EntityFramework.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\bin\Debug\PagedList.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.csprojResolveAssemblyReference.cache
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.pdb
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.csprojAssemblyReference.cache
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.csproj.CoreCompileInputs.cache
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\BookShopOnline.Tests.dll.config
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\BookShopOnline.Tests.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\BookShopOnline.Tests.pdb
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\BookShopOnline.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\Model.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\BotDetect.Web.Mvc.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\EntityFramework.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\PagedList.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\BotDetect.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\BookShopOnline.pdb
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\BookShopOnline.dll.config
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\Model.pdb
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\Model.dll.config
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\EntityFramework.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\bin\Debug\PagedList.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.csproj.CopyComplete
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.pdb
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.csprojAssemblyReference.cache
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.pdb
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\ApplicationInsights.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\BookShopOnline.Tests.dll.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\BookShopOnline.Tests.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\BookShopOnline.Tests.pdb
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\BookShopOnline.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.Helpers.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.Mvc.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.Razor.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.Optimization.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\Model.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\BotDetect.Web.Mvc.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\EntityFramework.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\WebGrease.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\PagedList.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\BotDetect.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\Antlr3.Runtime.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Data.SQLite.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\BookShopOnline.pdb
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\BookShopOnline.dll.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.Helpers.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.Mvc.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.Razor.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Web.Optimization.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\Model.pdb
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\Model.dll.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\EntityFramework.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\PagedList.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\Antlr3.Runtime.pdb
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Data.SQLite.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\bin\Debug\System.Data.SQLite.dll.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.csproj.AssemblyReference.cache
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.csproj.CoreCompileInputs.cache
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.csproj.CopyComplete
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline.Tests\obj\Debug\BookShopOnline.Tests.pdb

@@ -1,0 +1,826 @@
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\ApplicationInsights.config
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\roslyn\csc.exe
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\roslyn\vbc.exe
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\BookShopOnline.dll.config
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\BookShopOnline.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\BookShopOnline.pdb
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Antlr3.Runtime.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.AI.Web.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.AI.WindowsServer.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.ApplicationInsights.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Newtonsoft.Json.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.Helpers.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.Mvc.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.Optimization.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.Razor.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.WebPages.Deployment.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.WebPages.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.WebPages.Razor.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\WebGrease.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.AI.Web.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.AI.WindowsServer.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.ApplicationInsights.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.Helpers.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.Mvc.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.Optimization.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.Razor.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.WebPages.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.WebPages.Deployment.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\System.Web.WebPages.Razor.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Antlr3.Runtime.pdb
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Newtonsoft.Json.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\obj\Debug\BookShopOnline.csprojResolveAssemblyReference.cache
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\obj\Debug\BookShopOnline.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\obj\Debug\BookShopOnline.pdb
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Model.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\EntityFramework.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\Model.pdb
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\EntityFramework.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\PagedList.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\PagedList.xml
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\PagedList.Mvc.dll
+E:\ThucTapTotNghiep\BookShopOnline\BookShopOnline\bin\PagedList.Mvc.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\ApplicationInsights.config
+D:\BookShopOnline - Copy\BookShopOnline\bin\roslyn\csc.exe
+D:\BookShopOnline - Copy\BookShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BookShopOnline - Copy\BookShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BookShopOnline - Copy\BookShopOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\roslyn\vbc.exe
+D:\BookShopOnline - Copy\BookShopOnline\bin\roslyn\VBCSCompiler.exe
+D:\BookShopOnline - Copy\BookShopOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\BookShopOnline - Copy\BookShopOnline\bin\BookShopOnline.dll.config
+D:\BookShopOnline - Copy\BookShopOnline\bin\BookShopOnline.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\BookShopOnline.pdb
+D:\BookShopOnline - Copy\BookShopOnline\bin\Antlr3.Runtime.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.AI.Web.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.AI.WindowsServer.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.ApplicationInsights.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\Model.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\Newtonsoft.Json.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\PagedList.Mvc.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.Helpers.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.Mvc.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.Optimization.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.Razor.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.WebPages.Deployment.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.WebPages.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.WebPages.Razor.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\WebGrease.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\EntityFramework.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\PagedList.dll
+D:\BookShopOnline - Copy\BookShopOnline\bin\Model.pdb
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.AI.Web.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.AI.WindowsServer.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.ApplicationInsights.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\PagedList.Mvc.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.Helpers.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.Mvc.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.Optimization.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.Razor.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.WebPages.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.WebPages.Deployment.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\System.Web.WebPages.Razor.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\Antlr3.Runtime.pdb
+D:\BookShopOnline - Copy\BookShopOnline\bin\Newtonsoft.Json.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\EntityFramework.xml
+D:\BookShopOnline - Copy\BookShopOnline\bin\PagedList.xml
+D:\BookShopOnline - Copy\BookShopOnline\obj\Debug\BookShopOnline.csprojResolveAssemblyReference.cache
+D:\BookShopOnline - Copy\BookShopOnline\obj\Debug\BookShopOnline.dll
+D:\BookShopOnline - Copy\BookShopOnline\obj\Debug\BookShopOnline.pdb
+D:\BookShop\BookShopOnline\bin\ApplicationInsights.config
+D:\BookShop\BookShopOnline\bin\roslyn\csc.exe
+D:\BookShop\BookShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BookShop\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BookShop\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BookShop\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BookShop\BookShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BookShop\BookShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BookShop\BookShopOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\BookShop\BookShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\BookShop\BookShopOnline\bin\roslyn\vbc.exe
+D:\BookShop\BookShopOnline\bin\roslyn\VBCSCompiler.exe
+D:\BookShop\BookShopOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\BookShop\BookShopOnline\bin\BookShopOnline.dll.config
+D:\BookShop\BookShopOnline\bin\BookShopOnline.dll
+D:\BookShop\BookShopOnline\bin\BookShopOnline.pdb
+D:\BookShop\BookShopOnline\bin\Antlr3.Runtime.dll
+D:\BookShop\BookShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BookShop\BookShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+D:\BookShop\BookShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BookShop\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BookShop\BookShopOnline\bin\Microsoft.AI.Web.dll
+D:\BookShop\BookShopOnline\bin\Microsoft.AI.WindowsServer.dll
+D:\BookShop\BookShopOnline\bin\Microsoft.ApplicationInsights.dll
+D:\BookShop\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BookShop\BookShopOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\BookShop\BookShopOnline\bin\Model.dll
+D:\BookShop\BookShopOnline\bin\Newtonsoft.Json.dll
+D:\BookShop\BookShopOnline\bin\PagedList.Mvc.dll
+D:\BookShop\BookShopOnline\bin\System.Web.Helpers.dll
+D:\BookShop\BookShopOnline\bin\System.Web.Mvc.dll
+D:\BookShop\BookShopOnline\bin\System.Web.Optimization.dll
+D:\BookShop\BookShopOnline\bin\System.Web.Razor.dll
+D:\BookShop\BookShopOnline\bin\System.Web.WebPages.Deployment.dll
+D:\BookShop\BookShopOnline\bin\System.Web.WebPages.dll
+D:\BookShop\BookShopOnline\bin\System.Web.WebPages.Razor.dll
+D:\BookShop\BookShopOnline\bin\WebGrease.dll
+D:\BookShop\BookShopOnline\bin\EntityFramework.dll
+D:\BookShop\BookShopOnline\bin\PagedList.dll
+D:\BookShop\BookShopOnline\bin\Model.pdb
+D:\BookShop\BookShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+D:\BookShop\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BookShop\BookShopOnline\bin\Microsoft.AI.Web.xml
+D:\BookShop\BookShopOnline\bin\Microsoft.AI.WindowsServer.xml
+D:\BookShop\BookShopOnline\bin\Microsoft.ApplicationInsights.xml
+D:\BookShop\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BookShop\BookShopOnline\bin\PagedList.Mvc.xml
+D:\BookShop\BookShopOnline\bin\System.Web.Helpers.xml
+D:\BookShop\BookShopOnline\bin\System.Web.Mvc.xml
+D:\BookShop\BookShopOnline\bin\System.Web.Optimization.xml
+D:\BookShop\BookShopOnline\bin\System.Web.Razor.xml
+D:\BookShop\BookShopOnline\bin\System.Web.WebPages.xml
+D:\BookShop\BookShopOnline\bin\System.Web.WebPages.Deployment.xml
+D:\BookShop\BookShopOnline\bin\System.Web.WebPages.Razor.xml
+D:\BookShop\BookShopOnline\bin\Antlr3.Runtime.pdb
+D:\BookShop\BookShopOnline\bin\Newtonsoft.Json.xml
+D:\BookShop\BookShopOnline\bin\EntityFramework.xml
+D:\BookShop\BookShopOnline\bin\PagedList.xml
+D:\BookShop\BookShopOnline\obj\Debug\BookShopOnline.csprojResolveAssemblyReference.cache
+D:\BookShop\BookShopOnline\obj\Debug\BookShopOnline.dll
+D:\BookShop\BookShopOnline\obj\Debug\BookShopOnline.pdb
+D:\BookShop\BookShopOnline\bin\EntityFramework.SqlServer.dll
+D:\BookShop\BookShopOnline\bin\EntityFramework.SqlServer.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\ApplicationInsights.config
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\roslyn\csc.exe
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\roslyn\vbc.exe
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\BookShopOnline.dll.config
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\BookShopOnline.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\BookShopOnline.pdb
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Antlr3.Runtime.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\EntityFramework.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\EntityFramework.SqlServer.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.AI.Web.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.AI.WindowsServer.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.ApplicationInsights.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Model.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Newtonsoft.Json.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\PagedList.Mvc.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.Helpers.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.Mvc.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.Optimization.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.Razor.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.WebPages.Deployment.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.WebPages.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.WebPages.Razor.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\WebGrease.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\PagedList.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Model.pdb
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\EntityFramework.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\EntityFramework.SqlServer.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.AI.Web.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.AI.WindowsServer.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.ApplicationInsights.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\PagedList.Mvc.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.Helpers.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.Mvc.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.Optimization.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.Razor.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.WebPages.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.WebPages.Deployment.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Web.WebPages.Razor.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Antlr3.Runtime.pdb
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\Newtonsoft.Json.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\PagedList.xml
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\obj\Debug\BookShopOnline.csprojResolveAssemblyReference.cache
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\obj\Debug\BookShopOnline.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\obj\Debug\BookShopOnline.pdb
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\ApplicationInsights.config
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\roslyn\csc.exe
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\roslyn\vbc.exe
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\BookShopOnline.dll.config
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\BookShopOnline.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\BookShopOnline.pdb
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Antlr3.Runtime.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\EntityFramework.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\EntityFramework.SqlServer.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.AI.Web.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.AI.WindowsServer.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.ApplicationInsights.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Model.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Newtonsoft.Json.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\PagedList.Mvc.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.Helpers.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.Mvc.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.Optimization.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.Razor.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.WebPages.Deployment.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.WebPages.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.WebPages.Razor.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\WebGrease.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\PagedList.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Model.pdb
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\EntityFramework.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\EntityFramework.SqlServer.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.AI.Web.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.AI.WindowsServer.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.ApplicationInsights.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\PagedList.Mvc.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.Helpers.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.Mvc.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.Optimization.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.Razor.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.WebPages.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.WebPages.Deployment.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\System.Web.WebPages.Razor.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Antlr3.Runtime.pdb
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\Newtonsoft.Json.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\bin\PagedList.xml
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\obj\Debug\BookShopOnline.csprojResolveAssemblyReference.cache
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\obj\Debug\BookShopOnline.dll
+E:\ThucTapTotNghiep\BookShop1\BookShopOnline\obj\Debug\BookShopOnline.pdb
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\BotDetect.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\BotDetect.Web.Mvc.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Data.SQLite.dll
+E:\ThucTapTotNghiep\BookShop\BookShopOnline\bin\System.Data.SQLite.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\ApplicationInsights.config
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\roslyn\csc.exe
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\roslyn\vbc.exe
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\BookShopOnline.dll.config
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\BookShopOnline.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\BookShopOnline.pdb
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Antlr3.Runtime.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\BotDetect.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\BotDetect.Web.Mvc.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\EntityFramework.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\EntityFramework.SqlServer.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.AI.Web.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.AI.WindowsServer.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.ApplicationInsights.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Model.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Newtonsoft.Json.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\PagedList.Mvc.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Data.SQLite.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.Helpers.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.Mvc.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.Optimization.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.Razor.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.WebPages.Deployment.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.WebPages.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.WebPages.Razor.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\WebGrease.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\PagedList.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Model.pdb
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\EntityFramework.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\EntityFramework.SqlServer.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.AI.Web.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.AI.WindowsServer.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.ApplicationInsights.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\PagedList.Mvc.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Data.SQLite.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.Helpers.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.Mvc.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.Optimization.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.Razor.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.WebPages.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.WebPages.Deployment.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\System.Web.WebPages.Razor.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Antlr3.Runtime.pdb
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\Newtonsoft.Json.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\bin\PagedList.xml
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\obj\Debug\BookShopOnline.csprojResolveAssemblyReference.cache
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\obj\Debug\BookShopOnline.dll
+E:\ThucTapTotNghiep - Copy\BookShop\BookShopOnline\obj\Debug\BookShopOnline.pdb
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\EntityFramework.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\ApplicationInsights.config
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\roslyn\csc.exe
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\roslyn\vbc.exe
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\BookShopOnline.dll.config
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\BookShopOnline.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\BookShopOnline.pdb
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\BotDetect.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\BotDetect.Web.Mvc.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\EntityFramework.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.AI.Web.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Model.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\PagedList.Mvc.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Data.SQLite.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.Helpers.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.Mvc.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.Optimization.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.Razor.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.WebPages.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\WebGrease.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\PagedList.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Model.pdb
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Model.dll.config
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.AI.Web.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\PagedList.Mvc.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Data.SQLite.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Data.SQLite.dll.config
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.Helpers.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.Mvc.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.Optimization.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.Razor.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.WebPages.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\bin\PagedList.xml
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\obj\Debug\BookShopOnline.csprojAssemblyReference.cache
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\obj\Debug\BookShopOnline.csproj.CoreCompileInputs.cache
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\obj\Debug\BookShopOnline.csproj.CopyComplete
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\obj\Debug\BookShopOnline.dll
+C:\Users\vuthu\OneDrive\Tài liệu\ASP\Book-Shop-Online\BookShop\BookShopOnline\obj\Debug\BookShopOnline.pdb
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\ApplicationInsights.config
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\csc.exe
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\vbc.exe
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.dll.config
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.pdb
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Antlr3.Runtime.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\BotDetect.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\BotDetect.Web.Mvc.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Web.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.WindowsServer.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.ApplicationInsights.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Model.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Newtonsoft.Json.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\PagedList.Mvc.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Helpers.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Mvc.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Optimization.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Razor.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\WebGrease.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\PagedList.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Model.pdb
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Model.dll.config
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Web.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.WindowsServer.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.ApplicationInsights.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\PagedList.Mvc.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.dll.config
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Helpers.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Mvc.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Optimization.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Razor.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Antlr3.Runtime.pdb
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Newtonsoft.Json.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\PagedList.xml
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csprojAssemblyReference.cache
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csproj.CopyComplete
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.dll
+E:\ASP.NET\BTL\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.pdb
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\ApplicationInsights.config
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\csc.exe
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\vbc.exe
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.dll.config
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.pdb
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Antlr3.Runtime.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\BotDetect.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\BotDetect.Web.Mvc.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Web.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.WindowsServer.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.ApplicationInsights.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Model.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Newtonsoft.Json.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\PagedList.Mvc.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Helpers.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Mvc.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Optimization.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Razor.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\WebGrease.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\PagedList.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Model.pdb
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Model.dll.config
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Web.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.WindowsServer.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.ApplicationInsights.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\PagedList.Mvc.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.dll.config
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Helpers.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Mvc.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Optimization.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.Razor.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Antlr3.Runtime.pdb
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\Newtonsoft.Json.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\bin\PagedList.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csprojAssemblyReference.cache
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csproj.CopyComplete
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\BookShop-ASP-master\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.pdb
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\ApplicationInsights.config
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\csc.exe
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\vbc.exe
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.dll.config
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.pdb
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Antlr3.Runtime.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BotDetect.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BotDetect.Web.Mvc.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Web.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.WindowsServer.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.ApplicationInsights.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Model.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Newtonsoft.Json.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\PagedList.Mvc.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Helpers.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Mvc.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Optimization.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Razor.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\WebGrease.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\PagedList.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Model.pdb
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Model.dll.config
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Web.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.WindowsServer.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.ApplicationInsights.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\PagedList.Mvc.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.dll.config
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Helpers.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Mvc.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Optimization.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Razor.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Antlr3.Runtime.pdb
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Newtonsoft.Json.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\PagedList.xml
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csprojAssemblyReference.cache
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csproj.CopyComplete
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.dll
+E:\ASP.NET\BTL\DoAnTotNghiep_NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.pdb
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\ApplicationInsights.config
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\csc.exe
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\vbc.exe
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.dll.config
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.pdb
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Antlr3.Runtime.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BotDetect.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BotDetect.Web.Mvc.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Web.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.WindowsServer.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.ApplicationInsights.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Model.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Newtonsoft.Json.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\PagedList.Mvc.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Helpers.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Mvc.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Optimization.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Razor.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\WebGrease.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\PagedList.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Model.pdb
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Model.dll.config
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Web.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.WindowsServer.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.ApplicationInsights.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\PagedList.Mvc.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.dll.config
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Helpers.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Mvc.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Optimization.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Razor.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Antlr3.Runtime.pdb
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Newtonsoft.Json.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\PagedList.xml
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csprojAssemblyReference.cache
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csproj.CopyComplete
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.dll
+E:\ASP.NET\BTL\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.pdb
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\ApplicationInsights.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\csc.exe
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\vbc.exe
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.dll.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BookShopOnline.pdb
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Antlr3.Runtime.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BotDetect.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\BotDetect.Web.Mvc.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.SqlServer.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Web.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.WindowsServer.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.ApplicationInsights.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Model.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Newtonsoft.Json.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\PagedList.Mvc.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Helpers.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Mvc.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Optimization.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Razor.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Deployment.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Razor.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\WebGrease.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\PagedList.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Model.pdb
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Model.dll.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\EntityFramework.SqlServer.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.Web.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.AI.WindowsServer.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.ApplicationInsights.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\PagedList.Mvc.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Data.SQLite.dll.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Helpers.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Mvc.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Optimization.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.Razor.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Deployment.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\System.Web.WebPages.Razor.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Antlr3.Runtime.pdb
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\Newtonsoft.Json.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\PagedList.xml
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csproj.AssemblyReference.cache
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csproj.CoreCompileInputs.cache
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.csproj.CopyComplete
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\obj\Debug\BookShopOnline.pdb
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\csc.exe.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\csc.rsp
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\csi.exe
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\csi.exe.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\csi.rsp
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\Microsoft.Managed.Core.targets
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Buffers.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Memory.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Numerics.Vectors.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\vbc.exe.config
+E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\BookShopOnline\bin\roslyn\vbc.rsp
