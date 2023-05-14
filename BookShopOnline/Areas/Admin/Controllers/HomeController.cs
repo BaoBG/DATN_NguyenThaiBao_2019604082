@@ -9,7 +9,7 @@ using BookShopOnline.Areas.Admin.Models;
 
 namespace BookShopOnline.Areas.Admin.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         BookStoreDbContext db = new BookStoreDbContext();
         // GET: Admin/Home

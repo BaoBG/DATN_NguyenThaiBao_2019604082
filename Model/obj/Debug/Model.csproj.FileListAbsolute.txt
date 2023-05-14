@@ -144,3 +144,19 @@ E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\Mo
 E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\Model\obj\Debug\Model.csproj.CopyComplete
 E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\Model\obj\Debug\Model.dll
 E:\NTB\HaUI\SV4\KTPM 2017605551 NguyenVanThom\ChuongTrinh\BookShop-ASP-master\Model\obj\Debug\Model.pdb
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\bin\Debug\Model.dll.config
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\bin\Debug\Model.dll
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\bin\Debug\Model.pdb
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\bin\Debug\PagedList.dll
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\bin\Debug\PagedList.xml
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\obj\Debug\Model.dll
+C:\Users\admin\Desktop\KTPM_2019604082_NguyenThaiBao\Chuong Trinh\BookShop-ASP-master\Model\obj\Debug\Model.pdb

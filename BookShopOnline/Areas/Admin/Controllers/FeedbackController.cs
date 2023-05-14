@@ -7,7 +7,7 @@ using System.Web.Mvc;
 
 namespace BookShopOnline.Areas.Admin.Controllers
 {
-    public class FeedbackController : Controller
+    public class FeedbackController : BaseController
     {
         // GET: Admin/Feedback
         public ActionResult Index(int page =1, int pageSize=5)

@@ -39,11 +39,12 @@ namespace BookShopOnline.Areas.Admin.Controllers
                 if (id > 0)
                 {
                     SetAlert("Thêm tác giả thành công", "success");
+
                     return RedirectToAction("Index", "Author");
                 }
                 else
                 {
-                    ModelState.AddModelError("", "Thêm tác giả không thành công");
+                    ModelState.AddModelError("", "Thêm tác giả không thành công!");
                 }
             }
             return View("Index");
@@ -71,7 +72,7 @@ namespace BookShopOnline.Areas.Admin.Controllers
                 }
                 else
                 {
-                    ModelState.AddModelError("", "Cập nhật thông tin tác giả không thành công");
+                    ModelState.AddModelError("", "Cập nhật thông tin tác giả không thành công!");
                 }
             }
             return View("Index");
@@ -90,6 +91,7 @@ namespace BookShopOnline.Areas.Admin.Controllers
                 {
                     new AuthorDao().Delete(id);
                     db.SaveChanges();
+                    //SetAlert("Xóa tác giả thành công", "success");
                     result = true;
                 }
             }
